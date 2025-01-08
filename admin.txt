@@ -1,4 +1,8 @@
 /admin/management/655
+/admin
+/dashboard
+/adminpanel
+/loginadmin
 /login_admin-console/626
 /admin-backendpanel/138
 /admin_area/721
